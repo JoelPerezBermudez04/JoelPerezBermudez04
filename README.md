@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JoelPerezBermudez04/JoelPerezBermudez04/output/snake.svg" alt="Snake animation" />
-
-###
